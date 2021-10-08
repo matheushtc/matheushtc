@@ -6,7 +6,7 @@
 
 <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <a href="https://github.com/45ewertton">
+  <a href="https://github.com/matheushtc>
 </div>
 <div style="display: inline_block"><br>
   <i class="devicon-html5-plain colored"></i>
@@ -17,10 +17,14 @@
   <img align="center" alt="ewe-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
   <img align="center" alt="ewe-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   <img align="center" alt="ewe-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ewe-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux.svg">
+  <img align="center" alt="redux" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/> 
   <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>  
-  
+</div>
+  <br><br>
+<div> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushtc&layout=compact&theme=nightowl" alt="matheushtc">
+<div/>
+
 ##
 
 <div> 
