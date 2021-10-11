@@ -1,7 +1,8 @@
 ## Olá! Sou Matheus Henrique.
 
-- 💻 Estudante de Desenvolvimento de Software na Trybe.
+- 💻 Estudante de Desenvolvimento Web na Trybe.
 - 🔭 Buscando sempre aprender a aprender.
+- 🖥 Desenvolvedor Web Front-end.
 - 📚 Estudando Back-end.
 
 <div>
