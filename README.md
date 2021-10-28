@@ -1,5 +1,4 @@
 ## Olá! Sou Matheus Henrique.
-
 - 💻 Estudante de Desenvolvimento Web na Trybe.
 - 🔭 Buscando sempre aprender a aprender.
 - 🖥 Desenvolvedor Web Front-end.
@@ -7,9 +6,10 @@
 
 <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <a href="https://github.com/matheushtc>
+  <a href="https://github.com/matheushtc">
 </div>
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block" align="center"><br>
   <i class="devicon-html5-plain colored"></i>
   <img align="center" alt="ewe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ewe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,13 +22,14 @@
   <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
   <br><br>
-<div> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushtc&layout=compact&theme=nightowl" alt="matheushtc">
-<div/>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheushtc&show_icons=true&locale=en&theme=nord" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheushtc&show_icons=true&locale=en&layout=compact&theme=nord" />
+</div>
 
 ##
 
-<div> 
+<div align="center"> 
   <a href = "mailto:matheushtc75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheushtc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
