@@ -10,7 +10,7 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <i class="devicon-html5-plain colored"></i>
+  <h3>Stacks que conheço:</h3>
   <img align="center" alt="ewe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ewe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ewe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -27,6 +27,10 @@
   <img align="center" alt="ewe-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="ewe-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
+<div style="display: inline_block" align="center"><br>
+  <h3>SoftSkills:</h3>
+  <h4>Empatia, Resiliência, Colaboração, Comunicação, Criatividade;</h5>
 </div>
   <br><br>
 <div align="center">
