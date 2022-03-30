@@ -34,8 +34,8 @@
 </div>
   <br><br>
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheushtc&show_icons=true&locale=en&theme=dracula" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheushtc&show_icons=true&locale=en&layout=compact&theme=nord" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheushtc&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushtc&layout=compact&theme=tokyonight" />
 </div>
 
 ##
