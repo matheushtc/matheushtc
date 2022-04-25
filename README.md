@@ -30,7 +30,7 @@
 </div>
 <div style="display: inline_block" align="center"><br>
   <h3>SoftSkills:</h3>
-  <h4>Empatia, Resiliência, Colaboração, Comunicação, Criatividade;</h4>
+  <h4>Empatia, Resiliência, Colaboração, Comunicação, Criatividade, Liderança;</h4>
 </div>
   <br><br>
 <div align="center">
