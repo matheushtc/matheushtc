@@ -1,8 +1,7 @@
 ## Olá! Sou Matheus Henrique.
-- 💻 Estudante de Desenvolvimento Web na Trybe.
+- 💻 Desenvolvedor Web Fullstack.
 - 🔭 Buscando sempre aprender a aprender.
-- 🖥 Desenvolvedor Web Front-end.
-- 📚 Estudando Back-end.
+- 📚 Estudando último módulo da Trybe.
 
 <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
