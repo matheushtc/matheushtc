@@ -1,6 +1,6 @@
 ## Olá! Sou Matheus Henrique.
 - 📚 Formado na Trybe.
-- 💻 Desenvolvedor Web Fullstack.
+- 💻 Desenvolvedor Fullstack.
 - 🔭 Buscando sempre aprender a aprender.
 
 <div>
